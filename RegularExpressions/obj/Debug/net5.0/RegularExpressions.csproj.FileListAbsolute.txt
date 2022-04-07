@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/bin/Debug/net5.0/RegularExpressions.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/bin/Debug/net5.0/RegularExpressions.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/bin/Debug/net5.0/RegularExpressions.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/bin/Debug/net5.0/RegularExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/bin/Debug/net5.0/ref/RegularExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/bin/Debug/net5.0/RegularExpressions.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/ref/RegularExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/RegularExpressions/obj/Debug/net5.0/RegularExpressions.genruntimeconfig.cache

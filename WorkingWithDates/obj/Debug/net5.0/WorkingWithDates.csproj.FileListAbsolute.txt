@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/bin/Debug/net5.0/ref/WorkingWithDates.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/ref/WorkingWithDates.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.genruntimeconfig.cache

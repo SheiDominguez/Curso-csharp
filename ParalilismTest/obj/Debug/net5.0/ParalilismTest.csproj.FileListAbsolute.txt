@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/bin/Debug/net5.0/ParalilismTest.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/bin/Debug/net5.0/ParalilismTest.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/bin/Debug/net5.0/ParalilismTest.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/bin/Debug/net5.0/ParalilismTest.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/bin/Debug/net5.0/ref/ParalilismTest.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/bin/Debug/net5.0/ParalilismTest.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ref/ParalilismTest.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/ParalilismTest/obj/Debug/net5.0/ParalilismTest.genruntimeconfig.cache

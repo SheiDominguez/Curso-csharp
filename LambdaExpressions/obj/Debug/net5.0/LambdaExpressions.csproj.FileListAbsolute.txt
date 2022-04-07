@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/bin/Debug/net5.0/ref/LambdaExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/ref/LambdaExpressions.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.genruntimeconfig.cache

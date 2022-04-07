@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/bin/Debug/net5.0/Asynchronous.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/bin/Debug/net5.0/Asynchronous.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/bin/Debug/net5.0/Asynchronous.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/bin/Debug/net5.0/Asynchronous.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/bin/Debug/net5.0/ref/Asynchronous.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/bin/Debug/net5.0/Asynchronous.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/ref/Asynchronous.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Asynchronous/obj/Debug/net5.0/Asynchronous.genruntimeconfig.cache

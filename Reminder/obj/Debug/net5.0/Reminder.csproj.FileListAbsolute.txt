@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/bin/Debug/net5.0/Reminder.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/bin/Debug/net5.0/Reminder.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/bin/Debug/net5.0/Reminder.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/bin/Debug/net5.0/Reminder.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/bin/Debug/net5.0/ref/Reminder.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/bin/Debug/net5.0/Reminder.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/ref/Reminder.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Reminder/obj/Debug/net5.0/Reminder.genruntimeconfig.cache

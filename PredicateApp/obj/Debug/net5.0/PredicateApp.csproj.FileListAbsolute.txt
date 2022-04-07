@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/bin/Debug/net5.0/PredicateApp.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/bin/Debug/net5.0/PredicateApp.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/bin/Debug/net5.0/PredicateApp.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/bin/Debug/net5.0/PredicateApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/bin/Debug/net5.0/ref/PredicateApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/bin/Debug/net5.0/PredicateApp.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/ref/PredicateApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicateApp/obj/Debug/net5.0/PredicateApp.genruntimeconfig.cache

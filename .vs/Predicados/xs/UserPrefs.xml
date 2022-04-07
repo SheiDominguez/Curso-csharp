@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E09315E6-3A0C-4E0D-AB45-354B6FC6AD9D}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorkingWithDates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParalilismTest/Program.cs">
+    <Files>
+      <File FileName="RegularExpressions/Program.cs" Line="23" Column="14" />
+      <File FileName="Asynchronous/Program.cs" Line="1" Column="1" />
+      <File FileName="ParalilismTest/Program.cs" Line="51" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Predicados" expanded="True">
+            <Node name="Asynchronous" expanded="True" />
+            <Node name="ParalilismTest" expanded="True" />
+            <Node name="RegularExpressions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalculadoraGeometrica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Reminder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Predicados PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Asynchronous PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ParalilismTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RegularExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

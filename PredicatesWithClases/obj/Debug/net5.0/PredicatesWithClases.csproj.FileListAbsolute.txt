@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/bin/Debug/net5.0/PredicatesWithClases.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/bin/Debug/net5.0/PredicatesWithClases.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/bin/Debug/net5.0/PredicatesWithClases.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/bin/Debug/net5.0/PredicatesWithClases.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/bin/Debug/net5.0/ref/PredicatesWithClases.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/bin/Debug/net5.0/PredicatesWithClases.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/ref/PredicatesWithClases.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicados/PredicatesWithClases/obj/Debug/net5.0/PredicatesWithClases.genruntimeconfig.cache
