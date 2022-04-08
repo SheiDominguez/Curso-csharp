@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/bin/Debug/net5.0/BankApp.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/bin/Debug/net5.0/BankApp.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/bin/Debug/net5.0/BankApp.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/bin/Debug/net5.0/BankApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/bin/Debug/net5.0/ref/BankApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/bin/Debug/net5.0/BankApp.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/ref/BankApp.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/BankApp/obj/Debug/net5.0/BankApp.genruntimeconfig.cache

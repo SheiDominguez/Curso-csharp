@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/bin/Debug/net5.0/EmployeeControl.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/bin/Debug/net5.0/EmployeeControl.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/bin/Debug/net5.0/EmployeeControl.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/bin/Debug/net5.0/EmployeeControl.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/bin/Debug/net5.0/ref/EmployeeControl.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/bin/Debug/net5.0/EmployeeControl.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/ref/EmployeeControl.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/EmployeeControl/obj/Debug/net5.0/EmployeeControl.genruntimeconfig.cache

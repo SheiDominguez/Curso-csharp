@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/bin/Debug/net5.0/POO.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/bin/Debug/net5.0/POO.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/bin/Debug/net5.0/POO.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/bin/Debug/net5.0/POO.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/bin/Debug/net5.0/ref/POO.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/bin/Debug/net5.0/POO.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/ref/POO.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/POO/obj/Debug/net5.0/POO.genruntimeconfig.cache
