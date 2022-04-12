@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/bin/Debug/net5.0/Linq2.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/bin/Debug/net5.0/Linq2.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/bin/Debug/net5.0/Linq2.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/bin/Debug/net5.0/Linq2.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/bin/Debug/net5.0/ref/Linq2.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/bin/Debug/net5.0/Linq2.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/ref/Linq2.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/Linq2/obj/Debug/net5.0/Linq2.genruntimeconfig.cache

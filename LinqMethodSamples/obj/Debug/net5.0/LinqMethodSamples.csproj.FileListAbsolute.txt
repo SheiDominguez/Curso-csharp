@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/bin/Debug/net5.0/LinqMethodSamples.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/bin/Debug/net5.0/LinqMethodSamples.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/bin/Debug/net5.0/LinqMethodSamples.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/bin/Debug/net5.0/LinqMethodSamples.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/bin/Debug/net5.0/ref/LinqMethodSamples.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/bin/Debug/net5.0/LinqMethodSamples.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/ref/LinqMethodSamples.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqMethodSamples/obj/Debug/net5.0/LinqMethodSamples.genruntimeconfig.cache

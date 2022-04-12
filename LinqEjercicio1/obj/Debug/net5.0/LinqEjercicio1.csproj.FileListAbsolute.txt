@@ -1,0 +1,15 @@
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/bin/Debug/net5.0/LinqEjercicio1.deps.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/bin/Debug/net5.0/LinqEjercicio1.runtimeconfig.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/bin/Debug/net5.0/LinqEjercicio1.runtimeconfig.dev.json
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/bin/Debug/net5.0/LinqEjercicio1.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/bin/Debug/net5.0/ref/LinqEjercicio1.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/bin/Debug/net5.0/LinqEjercicio1.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.csproj.AssemblyReference.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.AssemblyInfoInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.AssemblyInfo.cs
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.csproj.CoreCompileInputs.cache
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/ref/LinqEjercicio1.dll
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.pdb
+/Users/SheilaDominguez/Documents/Proyectos/Predicates/LinqEjercicio1/obj/Debug/net5.0/LinqEjercicio1.genruntimeconfig.cache
