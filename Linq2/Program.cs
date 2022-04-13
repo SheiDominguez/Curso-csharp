@@ -25,11 +25,11 @@ namespace Linq2
         static void Main(string[] args)
         {
             int[] scores = { 94, 76, 95, 67, 45 };
-            // Usando Linq to objects en formato query expressions
+            // Usando Linq to objects en formato query expressions (Linq Querys)
             IEnumerable<int> scoreQry = from score in scores
                                         where score > 70
                                         select score * score;
-            // Usando Linq con métodos de extensión y expresiones lambda
+            // Usando Linq con métodos de extensión y expresiones lambda 
             var scoreQryLambda = scores
                 .Where(x => x > 70)
                 .Select(score => score * score);
