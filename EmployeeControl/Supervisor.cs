@@ -161,5 +161,21 @@ namespace EmployeeControl
             return user.Rol == 2 && user.ValidatedHours == false ? true : false;
         }
 
+        public static List<HoursPerProjectDto> GetHoursPerProject()
+        {
+            return HoursPerProjectDto.HorasPorProyectoList;
+        }
+
+        public static void AddProject(Projects project)
+        {
+            try
+            {
+                Projects.ProjectsList.Add(project);
+            }
+            catch (Exception e)
+            {
+                throw new ApplicationException($"No se pudo agregar el proyecto. {e.Message}");
+            }
+        }
     }
 }

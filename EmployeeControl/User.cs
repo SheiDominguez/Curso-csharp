@@ -52,62 +52,28 @@ namespace EmployeeControl
             return hoursPerWeek.Find(x => x.UserId == userId) != null ? true : false;
         }
 
-        public static void RegisterHours(int userId)
+        public static List<Projects> GetProjects()
         {
-            if (ValidateRegisteredHours(userId))
+            return Projects.ProjectsList;
+        }
+
+        public static void AddHoursToProject(List<HoursPerProjectDto> horas)
+        {
+            HoursPerProjectDto.HorasPorProyectoList.AddRange(horas);
+        }
+
+        public static void RegisterHours(WeeklyRegister week)
+        {
+            try
             {
-                Console.WriteLine("Ya se han registrado horas para este usuario.");
-                return;
+                hoursPerWeek.Add(week);
             }
-
-            Console.WriteLine("Proporciona las horas trabajadas en Lunes:");
-            var isNumber = Int32.TryParse(Console.ReadLine(), out int lunes);
-            if (!isNumber)
+            catch (Exception e)
             {
-                Console.WriteLine("Número inválido");
-                return;
+                throw new ApplicationException($"No se pudo agregar el registro semanal. {e.Message}");
             }
-
-            Console.WriteLine("Proporciona las horas trabajadas en Martes:");
-            isNumber = Int32.TryParse(Console.ReadLine(), out int martes);
-            if (!isNumber)
-            {
-                Console.WriteLine("Número inválido");
-                return;
-            }
-
-            Console.WriteLine("Proporciona las horas trabajadas en Miércoles:");
-            isNumber = Int32.TryParse(Console.ReadLine(), out int miercoles);
-            if (!isNumber)
-            {
-                Console.WriteLine("Número inválido");
-                return;
-            }
-
-            Console.WriteLine("Proporciona las horas trabajadas en Jueves:");
-            isNumber = Int32.TryParse(Console.ReadLine(), out int jueves);
-            if (!isNumber)
-            {
-                Console.WriteLine("Número inválido");
-                return;
-            }
-
-            Console.WriteLine("Proporciona las horas trabajadas en Viernes:");
-            isNumber = Int32.TryParse(Console.ReadLine(), out int viernes);
-            if (!isNumber)
-            {
-                Console.WriteLine("Número inválido");
-                return;
-            }
-
-            Console.WriteLine("Descripción de las actividades realizadas.");
-            var description = Console.ReadLine();
-
-            var totalHours = lunes + martes + miercoles + jueves + viernes;
-
-            hoursPerWeek.Add(new WeeklyRegister() { UserId = userId, HoursMonday = lunes, HoursTuesday = martes, HoursWednesday = miercoles, HoursThursday = jueves, Hoursfriday = viernes, Description = description });
-            Console.WriteLine($"\nHas registrado {totalHours} horas laboradas esta semana.\n");
-            Console.WriteLine("Se ha guardado la información, prontó será validada.");
+            
+            
         }
     }
 }
